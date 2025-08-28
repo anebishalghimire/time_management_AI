@@ -176,20 +176,6 @@ No environment variables are required for basic functionality. The app runs enti
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Icons provided by [Lucide React](https://lucide.dev/)
-- Images from [Pexels](https://www.pexels.com/)
-- Built with [Vite](https://vitejs.dev/) and [React](https://reactjs.org/)
-- Styled with [Tailwind CSS](https://tailwindcss.com/)
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-1. Check the [Issues](https://github.com/yourusername/timemanager/issues) page
-2. Create a new issue with detailed information
-3. Contact the maintainers
-
 ---
 
 **Made with ❤️ for better time management**
